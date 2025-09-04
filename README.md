@@ -39,7 +39,7 @@ I'm a passionate **[BackEnd Software / Developer Role]** with experience in Pyth
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**(your_linkedin_profile_link.)
 - **[Twitter]**(your_twitter_profile_link)
 
 
